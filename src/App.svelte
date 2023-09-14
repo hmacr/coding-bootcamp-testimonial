@@ -50,7 +50,7 @@
   </div>
   <!-- Slider -->
   <div
-    class="absolute w-[80px] h-[40px] md:bottom-20 md:right-64 border flex justify-between p-3 -mt-16 bg-white rounded-full shadow-lg"
+    class="absolute w-[80px] h-[40px] md:bottom-20 md:right-64 flex justify-between p-3 -mt-16 bg-white rounded-full shadow-lg"
   >
     <button
       class="hover:cursor-pointer disabled:cursor-not-allowed"
